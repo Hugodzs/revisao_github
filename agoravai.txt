@@ -1,1 +1,3 @@
 Entendendo mais sobre o gitHub e praticando sempre!
+
+branch do hugo ativa com sucesso
